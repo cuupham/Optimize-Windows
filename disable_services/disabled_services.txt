@@ -1,6 +1,7 @@
 BcastDVRUserService
 BDESVC
 cbdhsvc
+diagnosticshub.standardcollector.service
 DiagTrack
 embeddedmode
 fhsvc
@@ -47,6 +48,7 @@ vmicvss
 wbengine
 WbioSrvc
 wisvc
+WMPNetworkSvc
 WSearch
 XblAuthManager
 XblGameSave

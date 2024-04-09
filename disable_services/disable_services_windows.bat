@@ -1,5 +1,5 @@
 @echo off
-set ServicesFile=%~dp0unnecessary_services.txt
+set ServicesFile=%~dp0disabled_services.txt
 echo Reading service names from file: %ServicesFile%
 echo -------------------------------
 REM Bắt đầu phạm vi cục bộ
