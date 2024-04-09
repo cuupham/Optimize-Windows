@@ -1,7 +1,9 @@
-# File .bat:
+# File .bat
+
 Run as admin
 
-# Run in Powershell
+## Run in Powershell
+
 1. Get list DisplayName, ServiceName start-up=disabled
 Get-Service | Where-Object { $_.StartType -eq "Disabled" } | Select-Object DisplayName, ServiceName
 
